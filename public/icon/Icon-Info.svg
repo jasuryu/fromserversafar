@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="221.99" height="221.99" viewBox="0 0 221.99 221.99">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M23.842,138.948A81.392,81.392,0,1,1,138.948,23.842,81.392,81.392,0,1,1,23.842,138.948ZM13.026,81.395A68.372,68.372,0,1,0,81.395,13.026,68.449,68.449,0,0,0,13.026,81.395ZM74,111V74a7.4,7.4,0,0,1,14.8,0v37A7.4,7.4,0,0,1,74,111Zm0-59.2a7.4,7.4,0,1,1,7.4,7.4A7.4,7.4,0,0,1,74,51.8Z"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_Info" data-name="Icon/Info" opacity="0.201">
+    <path id="Grid" d="M0,0H221.99V221.99H0Z" fill="none"/>
+    <path id="Mask-2" data-name="Mask" d="M23.842,138.948A81.392,81.392,0,1,1,138.948,23.842,81.392,81.392,0,1,1,23.842,138.948ZM13.026,81.395A68.372,68.372,0,1,0,81.395,13.026,68.449,68.449,0,0,0,13.026,81.395ZM74,111V74a7.4,7.4,0,0,1,14.8,0v37A7.4,7.4,0,0,1,74,111Zm0-59.2a7.4,7.4,0,1,1,7.4,7.4A7.4,7.4,0,0,1,74,51.8Z" transform="translate(29.599 29.599)"/>
+    <g id="Icon_Info-2" data-name="Icon/Info" transform="translate(29.599 29.599)" clip-path="url(#clip-path)">
+      <path id="Icon_Fill_Accent" data-name="Icon/🖌 Fill/Accent" d="M0,0H221.99V221.99H0Z" transform="translate(-29.599 -29.599)" fill="#1eabae"/>
+    </g>
+  </g>
+</svg>

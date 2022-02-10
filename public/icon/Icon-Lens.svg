@@ -1,0 +1,12 @@
+<svg id="Icon_Lens" data-name="Icon/Lens" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44.324" height="44.324" viewBox="0 0 44.324 44.324">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M22.486,27.517l-5.6-7a11.11,11.11,0,1,1,2.287-1.872l5.621,7.027a1.477,1.477,0,1,1-2.307,1.846ZM2.955,11.081a8.126,8.126,0,1,0,8.126-8.126A8.135,8.135,0,0,0,2.955,11.081Z" transform="translate(0 0)"/>
+    </clipPath>
+  </defs>
+  <path id="Grid" d="M0,0H44.324V44.324H0Z" fill="none"/>
+  <path id="Mask-2" data-name="Mask" d="M22.486,27.517l-5.6-7a11.11,11.11,0,1,1,2.287-1.872l5.621,7.027a1.477,1.477,0,1,1-2.307,1.846ZM2.955,11.081a8.126,8.126,0,1,0,8.126-8.126A8.135,8.135,0,0,0,2.955,11.081Z" transform="translate(8.865 7.387)"/>
+  <g id="Icon_Lens-2" data-name="Icon/Lens" transform="translate(8.865 7.387)" clip-path="url(#clip-path)">
+    <path id="Icon_Fill_Accent" data-name="Icon/🖌 Fill/Accent" d="M0,0H44.324V44.324H0Z" transform="translate(-8.865 -7.387)" fill="#756f86"/>
+  </g>
+</svg>

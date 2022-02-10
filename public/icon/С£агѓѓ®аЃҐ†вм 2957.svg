@@ -1,0 +1,33 @@
+<svg id="Сгруппировать_2957" data-name="Сгруппировать 2957" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="90" viewBox="0 0 400 90">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M8,6.586,14.293.293a1,1,0,0,1,1.414,1.414l-7,7a1,1,0,0,1-1.414,0l-7-7A1,1,0,0,1,1.707.293Z" transform="translate(7 11)" fill="#5ab8ba"/>
+    </clipPath>
+  </defs>
+  <rect id="Прямоугольник_445" data-name="Прямоугольник 445" width="400" height="90" rx="5" fill="#fff"/>
+  <g id="Icon_Calendar" data-name="Icon/Calendar" transform="translate(2 22)">
+    <g id="Icon_Calendar-2" data-name="Icon/Calendar">
+      <path id="Grid" d="M0,0H46V46H0Z" fill="none"/>
+      <g id="Сгруппировать_3169" data-name="Сгруппировать 3169" transform="translate(-123 -9)">
+        <path id="Контур_9217" data-name="Контур 9217" d="M27.539,10.547H19.3c.026-.289.04-.582.04-.878a9.672,9.672,0,0,0-14.5-8.377.586.586,0,1,0,.586,1.015,8.5,8.5,0,1,1,4.245,15.86,8.4,8.4,0,0,1-5.328-1.879.586.586,0,0,0-.54-.1l-1.555.407.609-1.339a.586.586,0,0,0-.06-.588,8.5,8.5,0,0,1-.483-9.25A.586.586,0,1,0,1.3,4.826,9.676,9.676,0,0,0,1.65,15.071L.669,17.227a.586.586,0,0,0,.681.81l2.492-.651a9.667,9.667,0,0,0,7.174,1.859v5.131a2.464,2.464,0,0,0,2.461,2.461h8.287l3.705,3.032a.586.586,0,0,0,.957-.454V26.836h1.113A2.464,2.464,0,0,0,30,24.375V13.008A2.464,2.464,0,0,0,27.539,10.547Zm1.289,13.828a1.291,1.291,0,0,1-1.289,1.289h-1.7a.586.586,0,0,0-.586.586v1.927L22.36,25.81c-.16-.146-.3-.146-.613-.146H13.476a1.29,1.29,0,0,1-1.289-1.289V19a9.7,9.7,0,0,0,6.931-7.286h8.42a1.29,1.29,0,0,1,1.289,1.289Zm0,0" transform="translate(131.5 16.963)" fill="#756f86" stroke="#756f86" stroke-width="1"/>
+        <path id="Контур_9218" data-name="Контур 9218" d="M295.234,256.963a.7.7,0,0,0-.3-1.33h-.286L292.4,250.5a.7.7,0,0,0-1.279,0l-2.252,5.133h-.286a.7.7,0,0,0-.3,1.33l-.839,1.912a.7.7,0,1,0,1.279.561l1.056-2.406h3.959l1.056,2.406a.7.7,0,1,0,1.279-.561Zm-4.842-1.33,1.367-3.115,1.367,3.115Zm0,0" transform="translate(-140.093 -219.524)" fill="#756f86" stroke="#756f86" stroke-width="1"/>
+        <path id="Контур_9219" data-name="Контур 9219" d="M46.1,46.8a.7.7,0,1,0-.494-.2A.7.7,0,0,0,46.1,46.8Zm0,0" transform="translate(89.269 -25.266)" fill="#756f86" stroke="#756f86" stroke-width="1"/>
+        <path id="Контур_9220" data-name="Контур 9220" d="M100.5,95.206a.7.7,0,1,0,.672,1.225,8,8,0,0,0,3.457-3.75,8,8,0,0,0,3.457,3.75.7.7,0,0,0,.672-1.225A6.605,6.605,0,0,1,105.4,90.4h3.1a.7.7,0,1,0,0-1.4h-3.176V86.093a.7.7,0,1,0-1.4,0V89H101.4a.7.7,0,1,0,0,1.4h2.448A6.6,6.6,0,0,1,100.5,95.206Zm0,0" transform="translate(36.852 -63.861)" fill="#756f86" stroke="#756f86" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+  <text id="Выбор_языка" data-name="Выбор языка" transform="translate(54 51.999)" fill="#153288" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" opacity="0.233"><tspan x="0" y="0">Выбор</tspan><tspan y="0" font-family="SourceSansPro-Semibold, Source Sans Pro"> </tspan><tspan y="0">языка</tspan></text>
+  <text id="Русский" transform="translate(237 52.999)" fill="#1eabae" font-size="24" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Русский</tspan></text>
+  <g id="Icon_Chevron_Bottom" data-name="Icon/Chevron Bottom" transform="translate(349.5 30.5)">
+    <rect id="Icon_Chevron_Bottom_background" data-name="Icon/Chevron Bottom background" width="30" height="30" fill="none"/>
+    <g id="Icon_Chevron_Bottom-2" data-name="Icon/Chevron Bottom">
+      <path id="Grid-2" data-name="Grid" d="M0,0H30V30H0Z" fill="none"/>
+      <path id="Mask-2" data-name="Mask" d="M8,6.586,14.293.293a1,1,0,0,1,1.414,1.414l-7,7a1,1,0,0,1-1.414,0l-7-7A1,1,0,0,1,1.707.293Z" transform="translate(7 11)"/>
+      <g id="Icon_Chevron_Bottom-3" data-name="Icon/Chevron Bottom" clip-path="url(#clip-path)">
+        <g id="Color">
+          <path id="Icon_Fill_Accent" data-name="Icon/🖌 Fill/Accent" d="M0,0H30V30H0Z" fill="#1eabae"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

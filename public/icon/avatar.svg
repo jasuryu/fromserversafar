@@ -1,0 +1,19 @@
+<svg id="avatar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46.344" height="46.432" viewBox="0 0 46.344 46.432">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M26.026,32.2a1.533,1.533,0,0,1-1.5-1.568c.186-8.371-3.243-10.7-10.727-10.7-7.088,0-10.546,2.358-10.734,10.768A1.534,1.534,0,0,1,0,30.632c.224-9.988,4.943-13.766,13.8-13.766,9.274,0,14.017,3.806,13.792,13.835a1.532,1.532,0,0,1-1.531,1.5ZM6.133,7.667A7.667,7.667,0,1,1,13.8,15.333,7.675,7.675,0,0,1,6.133,7.667Zm3.068,0a4.6,4.6,0,1,0,4.6-4.6A4.6,4.6,0,0,0,9.2,7.667Z" transform="translate(0)"/>
+    </clipPath>
+  </defs>
+  <rect id="back" width="46" height="46" rx="4" transform="translate(0 0.432)" fill="#e2e7ea"/>
+  <g id="Icon_User" data-name="Icon/User" transform="translate(0.344)">
+    <g id="Icon_User-2" data-name="Icon/User">
+      <path id="Grid" d="M0,0H46V46H0Z" fill="none"/>
+      <path id="Mask-2" data-name="Mask" d="M26.026,32.2a1.533,1.533,0,0,1-1.5-1.568c.186-8.371-3.243-10.7-10.727-10.7-7.088,0-10.546,2.358-10.734,10.768A1.534,1.534,0,0,1,0,30.632c.224-9.988,4.943-13.766,13.8-13.766,9.274,0,14.017,3.806,13.792,13.835a1.532,1.532,0,0,1-1.531,1.5ZM6.133,7.667A7.667,7.667,0,1,1,13.8,15.333,7.675,7.675,0,0,1,6.133,7.667Zm3.068,0a4.6,4.6,0,1,0,4.6-4.6A4.6,4.6,0,0,0,9.2,7.667Z" transform="translate(9.2 6.133)"/>
+      <g id="Icon_User-3" data-name="Icon/User" transform="translate(9.2 6.133)" clip-path="url(#clip-path)">
+        <g id="Color" transform="translate(-9.2 -6.133)">
+          <path id="Icon_Fill_Accent" data-name="Icon/🖌 Fill/Accent" d="M0,0H46V46H0Z" fill="#756f86"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="Icon_Arrow_Right" data-name="Icon/Arrow Right" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.9" height="32.9" viewBox="0 0 32.9 32.9">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M11.609,4.387,9.095,1.872A1.1,1.1,0,0,1,10.646.321l4.387,4.387a1.1,1.1,0,0,1,0,1.551l-4.387,4.387A1.1,1.1,0,0,1,9.095,9.095L11.609,6.58H1.1a1.1,1.1,0,0,1,0-2.193Z"/>
+    </clipPath>
+  </defs>
+  <path id="Grid" d="M0,0H32.9V32.9H0Z" fill="none"/>
+  <path id="Mask-2" data-name="Mask" d="M11.609,4.387,9.095,1.872A1.1,1.1,0,0,1,10.646.321l4.387,4.387a1.1,1.1,0,0,1,0,1.551l-4.387,4.387A1.1,1.1,0,0,1,9.095,9.095L11.609,6.58H1.1a1.1,1.1,0,0,1,0-2.193Z" transform="translate(8.773 10.967)"/>
+  <g id="Icon_Arrow_Right-2" data-name="Icon/Arrow Right" transform="translate(8.773 10.967)" clip-path="url(#clip-path)">
+    <path id="Icon_Fill_Accent" data-name="Icon/🖌 Fill/Accent" d="M0,0H32.9V32.9H0Z" transform="translate(-8.773 -10.967)" fill="#1eabae"/>
+  </g>
+</svg>

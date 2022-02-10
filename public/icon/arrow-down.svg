@@ -1,0 +1,17 @@
+<svg id="Icon_Chevron_Bottom" data-name="Icon/Chevron Bottom" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M8,6.586,14.293.293a1,1,0,0,1,1.414,1.414l-7,7a1,1,0,0,1-1.414,0l-7-7A1,1,0,0,1,1.707.293Z" fill="#5ab8ba"/>
+    </clipPath>
+  </defs>
+  <rect id="Icon_Chevron_Bottom_background" data-name="Icon/Chevron Bottom background" width="30" height="30" fill="none"/>
+  <g id="Icon_Chevron_Bottom-2" data-name="Icon/Chevron Bottom">
+    <path id="Grid" d="M0,0H30V30H0Z" fill="none"/>
+    <path id="Mask-2" data-name="Mask" d="M8,6.586,14.293.293a1,1,0,0,1,1.414,1.414l-7,7a1,1,0,0,1-1.414,0l-7-7A1,1,0,0,1,1.707.293Z" transform="translate(7 11)"/>
+    <g id="Icon_Chevron_Bottom-3" data-name="Icon/Chevron Bottom" transform="translate(7 11)" clip-path="url(#clip-path)">
+      <g id="Color" transform="translate(-7 -11)">
+        <path id="Icon_Fill_Accent" data-name="Icon/🖌 Fill/Accent" d="M0,0H30V30H0Z" fill="#1eabae"/>
+      </g>
+    </g>
+  </g>
+</svg>

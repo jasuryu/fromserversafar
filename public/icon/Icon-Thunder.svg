@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31.888" height="31.888" viewBox="0 0 31.888 31.888">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M.894,19.305l3.271-7.091-2.431-.457A2.126,2.126,0,0,1,.288,8.6L4.658,1.06A2.125,2.125,0,0,1,6.5,0H9.775a2.126,2.126,0,0,1,1.841,3.19L9.842,6.255l3.306.62a2.126,2.126,0,0,1,1.2,3.5L4.418,21.6a2.056,2.056,0,0,1-1.561.735A2.134,2.134,0,0,1,.894,19.305Z" transform="translate(0)"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_Thunder" data-name="Icon/Thunder" transform="translate(-0.001 -0.001)">
+    <path id="Grid" d="M0,0H31.888V31.888H0Z" transform="translate(0.001 0.001)" fill="none"/>
+    <path id="Mask-2" data-name="Mask" d="M.894,19.305l3.271-7.091-2.431-.457A2.126,2.126,0,0,1,.288,8.6L4.658,1.06A2.125,2.125,0,0,1,6.5,0H9.775a2.126,2.126,0,0,1,1.841,3.19L9.842,6.255l3.306.62a2.126,2.126,0,0,1,1.2,3.5L4.418,21.6a2.056,2.056,0,0,1-1.561.735A2.134,2.134,0,0,1,.894,19.305Z" transform="translate(8.502 5.581)"/>
+    <g id="Icon_Thunder-2" data-name="Icon/Thunder" transform="translate(8.502 5.581)" clip-path="url(#clip-path)">
+      <path id="Icon_Fill_Accent" data-name="Icon/🖌 Fill/Accent" d="M0,0H31.888V31.888H0Z" transform="translate(-8.502 -5.58)" fill="#1eabae"/>
+    </g>
+  </g>
+</svg>

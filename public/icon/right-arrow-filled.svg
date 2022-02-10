@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M3.726,12.348l9.713,9.713a1.543,1.543,0,0,1-2.183,2.183l-10.8-10.8a1.543,1.543,0,0,1,0-2.183l10.8-10.8a1.543,1.543,0,0,1,2.183,2.183Z" transform="translate(0 0)"/>
+    </clipPath>
+  </defs>
+  <g id="Сгруппировать_3318" data-name="Сгруппировать 3318" transform="translate(210 466) rotate(180)">
+    <rect id="Прямоугольник_498" data-name="Прямоугольник 498" width="50" height="50" rx="5" transform="translate(160 416)" fill="rgba(30,171,174,0.7)"/>
+    <g id="Icon_Chevron_Left" data-name="Icon/Chevron Left" transform="translate(162 418)">
+      <rect id="Icon_Chevron_Left_background" data-name="Icon/Chevron Left background" width="46.305" height="46.305" fill="none"/>
+      <g id="Icon_Chevron_Left-2" data-name="Icon/Chevron Left">
+        <path id="Grid" d="M0,0H46.3V46.3H0Z" fill="none"/>
+        <path id="Mask-2" data-name="Mask" d="M3.726,12.348l9.713,9.713a1.543,1.543,0,0,1-2.183,2.183l-10.8-10.8a1.543,1.543,0,0,1,0-2.183l10.8-10.8a1.543,1.543,0,0,1,2.183,2.183Z" transform="translate(15.435 10.804)"/>
+        <g id="Icon_Chevron_Left-3" data-name="Icon/Chevron Left" transform="translate(15.435 10.804)" clip-path="url(#clip-path)">
+          <path id="Icon_Fill_Accent" data-name="Icon/🖌 Fill/Accent" d="M0,0H46.3V46.3H0Z" transform="translate(-15.435 -10.804)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

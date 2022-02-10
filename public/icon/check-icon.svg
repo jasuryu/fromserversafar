@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.439" height="16.439" viewBox="0 0 15.439 16.439">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M8.9.151a.515.515,0,0,1,.728.728L3.452,7.054a.515.515,0,0,1-.728,0L.151,4.481a.515.515,0,0,1,.728-.728L3.088,5.962Z" transform="translate(0 0)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_Check" data-name="Icon/Check" transform="translate(0 1)">
+    <rect id="Icon_Check_background" data-name="Icon/Check background" width="15.439" height="15.439" transform="translate(0 0)" fill="none"/>
+    <g id="Icon_Check-2" data-name="Icon/Check" transform="translate(0 -1)">
+      <path id="Grid" d="M0,0H15.439V15.439H0Z" fill="none"/>
+      <path id="Mask-2" data-name="Mask" d="M8.9.151a.515.515,0,0,1,.728.728L3.452,7.054a.515.515,0,0,1-.728,0L.151,4.481a.515.515,0,0,1,.728-.728L3.088,5.962Z" transform="translate(3.088 4.117)"/>
+      <g id="Icon_Check-3" data-name="Icon/Check" transform="translate(3.088 4.117)" clip-path="url(#clip-path)">
+        <path id="Icon_Fill_Dark" data-name="Icon/🖌 Fill/Dark" d="M0,0H15.439V15.439H0Z" transform="translate(-3.088 -4.117)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
